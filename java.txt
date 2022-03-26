@@ -1,0 +1,27 @@
+Taking Input in java:
+-------------------->
+      :    :    :     :     :     :      :     :   :
+      : Scanner myObj = new Scanner(System.in);    :
+      :  String userName = myObj.nextLine();       :
+      : : :  :  :    :    :     :    :        :    :
+        nextBoolean()	Reads a boolean value from the user
+        nextByte()	Reads a byte value from the user
+        nextDouble()	Reads a double value from the user
+        nextFloat()	Reads a float value from the user
+        nextInt()	Reads a int value from the user
+        nextLine()	Reads a String value from the user
+        nextLong()	Reads a long value from the user
+        nextShort()	Reads a short value from the user
+
+...................................................................................................
+
+Array:
+------>
+declare an array  --> double[] data;
+allocate memory   --> data = new double[10];
+double[] data = new double[10];
+
+declare and initialize and array --> int[] age = {12, 4, 5, 2, 5};
+int mat1[][] = new int[row][col];
+
+Methods:
